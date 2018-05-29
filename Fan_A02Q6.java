@@ -2,7 +2,7 @@
 /**
  * This program is a star compiling program.
  * 
- * @ Menglan Fan
+ * @ Athena Fan
  * @ Version 5
  */
 import java.util.Scanner;
