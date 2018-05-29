@@ -2,7 +2,7 @@
 /**
  * Read input from the user and write to a file userStrings.txt until "Done" is entered program
  * 
- * @Menglan Fan
+ * @ Athena Fan
  * @version 4
  */
 
