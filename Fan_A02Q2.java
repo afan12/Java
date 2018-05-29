@@ -2,7 +2,7 @@
 /**
  * This program reads the lengths of the sides of the triangle and prints out the area. 
  * 
- * @Menglan Fan
+ * @ Athena Fan
  * @version 1
  */
 
