@@ -2,7 +2,7 @@
 /**
  * This program prompts the user and plays the Hi-Lo guessing game.
  * 
- * @Menglan Fan 
+ * @ Athena Fan
  * @Version 1
  */
 import java.util.Scanner;
