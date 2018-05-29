@@ -3,7 +3,7 @@
  * This is a program that computes and displays the result of rolling several 6-sided dice 
  * and adding a number to the sum of the result of those dice.
  * 
- * @ Menglan Fan 
+ * @ Athena Fan 
  * @ Version 4
  */
 import java.util.Scanner;
