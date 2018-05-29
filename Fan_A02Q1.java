@@ -2,7 +2,7 @@
 /**
  * The program is used to compute and display the distance between the two points. 
  * 
- * @author Menglan Fan 
+ * @author Athena Fan 
  * @version 1
  */
 import java.util.Scanner;
