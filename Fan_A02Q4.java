@@ -2,7 +2,7 @@
 /**
  * This is a program that reads an integer value representing a year from the user to check if the year is a leap year.
  * 
- * @Menglan Fan
+ * @ Athena Fan
  * @version 3
  */
 import java.util.Scanner;
