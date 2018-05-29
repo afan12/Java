@@ -2,7 +2,7 @@
 /**
  * Average of five numbers program with exceptions.
  * 
- * @Menglan Fan
+ * @ Athena Fan
  * @version 3
  */
 import java.util.Scanner;
